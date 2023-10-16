@@ -6,11 +6,14 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
-        "php": ">=8.0"
+        "php": ">=8.0",
+        "spryker-shop/product-offer-service-point-availability-widget": "^0.1.0",
+        "spryker/product-offer-service-point-availability": "^0.1.0",
+        "spryker/product-offer-service-point-availability-calculator": "^0.1.0"
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "202307.x-dev"
+            "dev-master": "202311.x-dev"
         }
     },
     "suggest": {
