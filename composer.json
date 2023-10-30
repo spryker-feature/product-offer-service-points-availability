@@ -7,9 +7,11 @@
     "prefer-stable": true,
     "require": {
         "php": ">=8.0",
-        "spryker-shop/product-offer-service-point-availability-widget": "^0.1.0",
-        "spryker/product-offer-service-point-availability": "^0.1.0",
-        "spryker/product-offer-service-point-availability-calculator": "^0.1.0"
+        "spryker-shop/product-offer-service-point-availability-widget": "^0.2.0",
+        "spryker/product-offer-service-point-availability": "^0.2.0",
+        "spryker/product-offer-service-point-availability-calculator": "^0.1.0",
+        "spryker/product-offer-service-point-availability-calculator-storage": "^0.1.0",
+        "spryker/product-offer-service-point-availability-storage": "^0.1.0"
     },
     "extra": {
         "branch-alias": {
