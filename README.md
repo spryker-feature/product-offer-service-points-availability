@@ -1,6 +1,6 @@
 # Spryker Feature: Product Offer Service Points Availability
 
-
+The Product Offer Service Points Availability feature enhances the Click & Collect experience by displaying the availability of product offers at various service points. Additionally, this feature incorporates a calculator strategy for determining the availability of product offers at Click & Collect service points.
 
 ## Installation
 
