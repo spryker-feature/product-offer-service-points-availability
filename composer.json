@@ -6,7 +6,7 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
-        "php": ">=8.0",
+        "php": ">=8.1",
         "spryker-shop/product-offer-service-point-availability-widget": "^1.0.0",
         "spryker/product-offer-service-point-availability": "^1.0.0",
         "spryker/product-offer-service-point-availability-calculator-storage": "^1.0.0",
